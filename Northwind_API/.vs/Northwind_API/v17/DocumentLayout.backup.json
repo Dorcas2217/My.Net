@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\northwind_api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\northwind_api\\repository\\baserepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|solutionrelative:repository\\baserepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\northwind_api\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\northwind_api\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|solutionrelative:models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\northwind_api\\unitofwork\\unitofworksqlservernorthwind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|solutionrelative:unitofwork\\unitofworksqlservernorthwind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\northwind_api\\unitofwork\\iunitofworknorthwind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|solutionrelative:unitofwork\\iunitofworknorthwind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\northwind_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\northwind_api\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|solutionrelative:entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\northwind_api\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|solutionrelative:models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\northwind_api\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\northwind_api\\entities\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44514A-D3B6-4171-AF52-81841B9681A2}|Northwind_API.csproj|solutionrelative:entities\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Controllers\\EmployeeController.cs*",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:31:58.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Models\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Models\\EmployeeDTO.cs",
+              "RelativeToolTip": "Models\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:13:23.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWorkSQLServerNorthwind.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\UnitOfWork\\UnitOfWorkSQLServerNorthwind.cs",
+              "RelativeDocumentMoniker": "UnitOfWork\\UnitOfWorkSQLServerNorthwind.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\UnitOfWork\\UnitOfWorkSQLServerNorthwind.cs",
+              "RelativeToolTip": "UnitOfWork\\UnitOfWorkSQLServerNorthwind.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:04:55.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseRepositorySQL.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Repository\\BaseRepositorySQL.cs",
+              "RelativeDocumentMoniker": "Repository\\BaseRepositorySQL.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Repository\\BaseRepositorySQL.cs*",
+              "RelativeToolTip": "Repository\\BaseRepositorySQL.cs*",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:52:15.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:36:34.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnitOfWorkNorthwind.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\UnitOfWork\\IUnitOfWorkNorthwind.cs",
+              "RelativeDocumentMoniker": "UnitOfWork\\IUnitOfWorkNorthwind.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\UnitOfWork\\IUnitOfWorkNorthwind.cs",
+              "RelativeToolTip": "UnitOfWork\\IUnitOfWorkNorthwind.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:01:37.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:56:24.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Entities\\Employee.cs",
+              "RelativeToolTip": "Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:13:56.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Models\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Models\\OrderDTO.cs",
+              "RelativeToolTip": "Models\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:18:13.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Entities\\Order.cs",
+              "RelativeToolTip": "Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:18:27.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Entities\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "Entities\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\Northwind_API\\Entities\\NorthwindContext.cs",
+              "RelativeToolTip": "Entities\\NorthwindContext.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:48:05.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

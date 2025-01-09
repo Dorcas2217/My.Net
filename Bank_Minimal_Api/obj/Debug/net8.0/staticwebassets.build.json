@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "A+ONDwJljv2SaWkc8qc73h6DazQQuevY/4A0rbd/zV0=",
+  "Source": "Bank_Minimal_Api",
+  "BasePath": "_content/Bank_Minimal_Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

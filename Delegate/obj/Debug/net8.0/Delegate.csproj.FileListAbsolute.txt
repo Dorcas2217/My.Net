@@ -1,0 +1,14 @@
+C:\Users\steph\Documents\BLOC3\C#2\Delegate\bin\Debug\net8.0\Delegate.exe
+C:\Users\steph\Documents\BLOC3\C#2\Delegate\bin\Debug\net8.0\Delegate.deps.json
+C:\Users\steph\Documents\BLOC3\C#2\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+C:\Users\steph\Documents\BLOC3\C#2\Delegate\bin\Debug\net8.0\Delegate.dll
+C:\Users\steph\Documents\BLOC3\C#2\Delegate\bin\Debug\net8.0\Delegate.pdb
+C:\Users\steph\Documents\BLOC3\C#2\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\Documents\BLOC3\C#2\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\steph\Documents\BLOC3\C#2\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+C:\Users\steph\Documents\BLOC3\C#2\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\steph\Documents\BLOC3\C#2\Delegate\obj\Debug\net8.0\Delegate.dll
+C:\Users\steph\Documents\BLOC3\C#2\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+C:\Users\steph\Documents\BLOC3\C#2\Delegate\obj\Debug\net8.0\Delegate.pdb
+C:\Users\steph\Documents\BLOC3\C#2\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+C:\Users\steph\Documents\BLOC3\C#2\Delegate\obj\Debug\net8.0\ref\Delegate.dll

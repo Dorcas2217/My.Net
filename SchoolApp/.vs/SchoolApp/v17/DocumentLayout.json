@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\schoolapp\\repository\\sectionrepositorymem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|solutionrelative:repository\\sectionrepositorymem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\schoolapp\\repository\\irepositorystudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|solutionrelative:repository\\irepositorystudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\schoolapp\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\schoolapp\\repository\\basestudentrepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|solutionrelative:repository\\basestudentrepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\schoolapp\\repository\\baserepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|solutionrelative:repository\\baserepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\schoolapp\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|solutionrelative:models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\schoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\schoolapp\\repository\\studentrepositorymem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|solutionrelative:repository\\studentrepositorymem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\schoolapp\\unitofwork\\unitofworkschoolmem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|solutionrelative:unitofwork\\unitofworkschoolmem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\schoolapp\\unitofwork\\unitofworkschool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|solutionrelative:unitofwork\\unitofworkschool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\schoolapp\\unitofwork\\iunitofworkschool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|solutionrelative:unitofwork\\iunitofworkschool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\schoolapp\\schoolapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|solutionrelative:schoolapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\schoolapp\\school.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|solutionrelative:school.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\schoolapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|c:\\users\\steph\\documents\\bloc3\\c#2\\schoolapp\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24ABEB4-55E6-4CC8-85C1-7AE2A1F64E01}|SchoolApp.csproj|solutionrelative:models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepositoryStudent.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Repository\\IRepositoryStudent.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepositoryStudent.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Repository\\IRepositoryStudent.cs",
+              "RelativeToolTip": "Repository\\IRepositoryStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T21:55:28.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "Models\\SchoolContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA+wB0AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:48:00.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseStudentRepositorySQL.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Repository\\BaseStudentRepositorySQL.cs",
+              "RelativeDocumentMoniker": "Repository\\BaseStudentRepositorySQL.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Repository\\BaseStudentRepositorySQL.cs",
+              "RelativeToolTip": "Repository\\BaseStudentRepositorySQL.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T21:55:56.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseRepositorySQL.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Repository\\BaseRepositorySQL.cs",
+              "RelativeDocumentMoniker": "Repository\\BaseRepositorySQL.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Repository\\BaseRepositorySQL.cs",
+              "RelativeToolTip": "Repository\\BaseRepositorySQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T20:50:59.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T20:50:58.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SectionRepositoryMem.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Repository\\SectionRepositoryMem.cs",
+              "RelativeDocumentMoniker": "Repository\\SectionRepositoryMem.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Repository\\SectionRepositoryMem.cs",
+              "RelativeToolTip": "Repository\\SectionRepositoryMem.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T01:06:02.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWorkSchool.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\UnitOfWork\\IUnitOfWorkSchool.cs",
+              "RelativeDocumentMoniker": "UnitOfWork\\IUnitOfWorkSchool.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\UnitOfWork\\IUnitOfWorkSchool.cs",
+              "RelativeToolTip": "UnitOfWork\\IUnitOfWorkSchool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T22:09:11.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:40:41.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentRepositoryMem.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Repository\\StudentRepositoryMem.cs",
+              "RelativeDocumentMoniker": "Repository\\StudentRepositoryMem.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Repository\\StudentRepositoryMem.cs",
+              "RelativeToolTip": "Repository\\StudentRepositoryMem.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T01:01:18.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWorkSchoolMem.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\UnitOfWork\\UnitOfWorkSchoolMem.cs",
+              "RelativeDocumentMoniker": "UnitOfWork\\UnitOfWorkSchoolMem.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\UnitOfWork\\UnitOfWorkSchoolMem.cs",
+              "RelativeToolTip": "UnitOfWork\\UnitOfWorkSchoolMem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T01:11:42.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SchoolApp.csproj",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\SchoolApp.csproj",
+              "RelativeDocumentMoniker": "SchoolApp.csproj",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\SchoolApp.csproj",
+              "RelativeToolTip": "SchoolApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-06T22:05:33.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWorkSchool.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\UnitOfWork\\UnitOfWorkSchool.cs",
+              "RelativeDocumentMoniker": "UnitOfWork\\UnitOfWorkSchool.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\UnitOfWork\\UnitOfWorkSchool.cs",
+              "RelativeToolTip": "UnitOfWork\\UnitOfWorkSchool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T22:11:37.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T21:42:50.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "school.sql",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\school.sql",
+              "RelativeDocumentMoniker": "school.sql",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\school.sql",
+              "RelativeToolTip": "school.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-06T21:17:41.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Models\\Section.cs",
+              "RelativeDocumentMoniker": "Models\\Section.cs",
+              "ToolTip": "C:\\Users\\steph\\Documents\\BLOC3\\C#2\\SchoolApp\\Models\\Section.cs",
+              "RelativeToolTip": "Models\\Section.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T20:56:19.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
