@@ -25,14 +25,3 @@ Chaque dossier correspond à un projet distinct, permettant de travailler une th
 
 ---
 
-## Structure du projet
-
-```plaintext
-My.Net/
-│
-├── ConsoleApp1/        → Exemple de manipulation de collections et LINQ
-├── FileManager/        → Lecture/écriture de fichiers (TXT, JSON, XML)
-├── WpfApp/             → Application graphique (WPF)
-├── WebApiDemo/         → API REST simple en ASP.NET Core
-├── EFCoreSample/       → Exemple d’utilisation d’Entity Framework Core
-└── ...
